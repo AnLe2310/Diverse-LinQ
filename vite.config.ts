@@ -5,7 +5,6 @@ import { componentTagger } from 'lovable-tagger';
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/Diverse-LinQ/',
   server: {
     host: '::',
     port: 8080,
